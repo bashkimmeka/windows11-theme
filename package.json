@@ -1,0 +1,21 @@
+{
+    "name": "windows11-theme",
+    "displayName": "windows11-theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Windows 11",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Windows 11-color-theme.json"
+            }
+        ]
+    }
+}
